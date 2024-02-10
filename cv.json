@@ -6,61 +6,56 @@
     "email": "artixaj04@gmail.com",
     "phone": "+52 9991460441",
     "url": "",
-    "summary": "+3 años de experiencia como Desarrollador Web. Actualmente me dedico a crear plataformas web para clientes específicos. Vivo en Mérida, Yucatán. He trabajado en diferentes entornos usando tecnologías de front-end y back-end.",
+    "summary": "+3 años de experiencia como Desarrollador Web. Actualmente me dedico a crear plataformas web para clientes específicos. Ingeniero en animacíon digital y efectos visuales, con diplomado en desarrollo de aplicaciones, conocimiento de lenguajes de programación y hardware para equipos de computo, vivo en Mérida, Yucatán. He trabajado con diferentes ambientes de desarrollo usando tecnologías de front-end y back-end.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "97203",
+      "city": "Mérida, Yucatán",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "alan-parra",
+        "url": "https://www.linkedin.com/in/alan-parra-479295274/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "chuchito04",
+        "url": "https://github.com/chuchito04"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Púrpura Analytics",
+      "position": "Desarrollador Web",
+      "url": "https://purpurasolutions.com/",
+      "startDate": "2022-01-31",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo de plataformas web para ayuntamientos y gobiernos , asi como de páginas web para clientes privados. Lidero la parte visual UX/UI de las plataformas y programo tanto en front como en back",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "TecNM Campus - Progreso",
+      "position": "Creador de contenido Multimedia",
+      "url": "https://www.progreso.tecnm.mx/",
+      "startDate": "2020-06-01",
+      "endDate": "2020-10-01",
+      "summary": "Apoye a gestionar la plataforma Moodle de la universidad, Crear contenido para Youtube de Cursos de asignaturas de matemáticas para los alumnos y público en general, Comerciales para difusión de publicidad.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Centro de Investigación Científica de Yucatán (CICY)",
+      "position": "Media",
+      "startDate": "2020-01-01",
+      "endDate": "2020-04-01",
+      "summary": "Realicé actividades de diseño gráfico y edicíon de foto y video usando Photoshop y Premiere",
       "highlights": [
         "Started the company"
       ]
@@ -78,17 +73,32 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "TecNM Campus - Progreso (Anteriormente Tecnológico de Progreso)",
+    "url": "https://www.progreso.tecnm.mx/",
+    "area": "Ingeniero en Animación Digital y Efectos Visuales",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2016-05-01",
+    "endDate": "2020-12-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {
+    "institution": "Google Academy",
+    "url": "https://skillshop.exceedlms.com/student/collection/798207-apps?locale=es",
+    "area": "Desarrollo de Apps Móviles CERTIFICATE ID: 6W6 RJ3 KCG",
+    "studyType": "Bachelor",
+    "startDate": "2019-05-01",
+    "endDate": "2019-06-01",
+    "score": "finished",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+  
+  
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -124,6 +134,76 @@
       ]
     },
     {
+      "name": "Wordpress",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Godaddy",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Office",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Android Studio",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "CodeIgniter",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
@@ -131,7 +211,7 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Bootstrap",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
@@ -173,7 +253,21 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Django",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
@@ -210,66 +304,135 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Ayuntamiento de Hopelchén",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Página web del ayuntamiento de Hopelchén 2021-2024",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Página oficial",
+        "Wordpress",
+        "HTML/CSS"
       ],
-      "url": "https://mars.codes"
+      "url": "https://ayuntamientohopelchen.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "CNA - Yucatán",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Página web del Consejo Nacional Agropecuario de Yucatán",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Página oficial",
+        "Wordpress",
+        "HTML/CSS",
+        "PowerBI embed"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://cnayucatan.org/"
     },
     {
-      "name": "Codember",
+      "name": "Emprendemid",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Plataforma para emprendedores de Mérida Yucatán",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Django",
+        "Bootstrap",
+        "Python",
+        "HTML/CSS",
+        "PostgreSQL"
       ],
-      "url": "https://codember.dev"
+      "url": "https://emprendemid.com/"
     },
     {
-      "name": "codi.link",
+      "name": "Ventanas Rotas",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Blog de cliente privado, donde da a conocer artículos de interes",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "3k visitas al mes",
+        "Wordpress",
+        "HTML/CSS"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://ventanasrotas.com/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Mira",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Página de organización feminista y medioambientalista",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Versión Ingles y Español",
+        "30k visitas al mes",
+        "Wordpress"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://www.americas.org/"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Mougins PTA School Marketplace",
+      "isActive": true,
+      "description": "Plataforma de compra/venta para escuela de Francia",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Wordpress",
+        "HTML/CSS",
+        "PressHive"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://mouginsschoolptamarketplace.co.uk/"
+    },
+    {
+      "name": "Grand Habitat Desarrollos",
+      "isActive": true,
+      "description": "Página web de inmobiliaria",
+      "highlights": [
+        "Wordpress",
+        "HTML/CSS"
+      ],
+      "url": "https://grandhabitatdesarrollos.com/"
+    },
+    {
+      "name": "BR Industries",
+      "isActive": true,
+      "description": "Página web de empresa de suministros médicos",
+      "highlights": [
+        "Wordpress",
+        "HTML/CSS"
+      ],
+      "url": "https://brindustries.com.mx/"
+    },
+    {
+      "name": "Predial Conkal",
+      "isActive": true,
+      "description": "Plataforma de pago predial de Conkal Yucatán",
+      "highlights": [
+        "PHP",
+        "Bootstrap",
+        "MySQL",
+        "CodeIgniter",
+        "HTML/CSS",
+        "Openpay"
+      ],
+      "url": "https://predialconkal.com.mx/"
+    },
+    {
+      "name": "Mercadomid",
+      "isActive": true,
+      "description": "E-commerce de Emprendemid",
+      "highlights": [
+        "React",
+        "Javascript",
+        "HTML/CSS",
+        "Whatsapp API",
+        "PHP"
+      ],
+      "url": "https://mercadomid.com.mx/"
+    },
+    {
+      "name": "Empleomid",
+      "isActive": false,
+      "description": "Plataforma del estado de Yucatán para obtener empleo",
+      "highlights": [
+        "EN DESARROLLO",
+        "PHP",
+        "Bootstrap",
+        "Javascript",
+        "HTML/CSS",
+        "Google Maps API",
+        "CodeIgniter"
+      ],
+      "url": "https://empleomid.com"
     }
   ]
 }
