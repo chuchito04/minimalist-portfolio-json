@@ -305,6 +305,7 @@
   "projects": [
     {
       "name": "Ayuntamiento de Hopelchén",
+      "github": "",
       "isActive": true,
       "description": "Página web del ayuntamiento de Hopelchén 2021-2024",
       "highlights": [
@@ -316,6 +317,7 @@
     },
     {
       "name": "CNA - Yucatán",
+      "github": "",
       "isActive": true,
       "description": "Página web del Consejo Nacional Agropecuario de Yucatán",
       "highlights": [
@@ -328,6 +330,7 @@
     },
     {
       "name": "Emprendemid",
+      "github": "",
       "isActive": true,
       "description": "Plataforma para emprendedores de Mérida Yucatán",
       "highlights": [
